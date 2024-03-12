@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background: linear-gradient(to right, #ff9966, #ff5e62);
+    min-height: 100vw;
+}
+.days{
+    font-size: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
