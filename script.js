@@ -1,5 +1,5 @@
 function daysUntilYks(){
-    const yksDate = new Date("2024-06-15")
+    const yksDate = new Date("2024-06-8")
 
     const currentDate = new Date()
 
@@ -20,4 +20,4 @@ const daysRemain = document.querySelector('.days')
 
 setTimeout(function() {
     updateDaysRemain();
-}, 864000);
+}, 1000);
