@@ -1,5 +1,5 @@
 function daysUntilYks(){
-    const yksDate = new Date("2024-06-8")
+    const yksDate = new Date("2024-06-08")
 
     const currentDate = new Date()
 
